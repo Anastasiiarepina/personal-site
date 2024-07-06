@@ -1,3 +1,3 @@
-# personal cite
+# personal site
 
 Переделанный сайт для задания
